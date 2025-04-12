@@ -12,7 +12,7 @@
  <a href="https://github.com/Abshema123"><img src="https://img.shields.io/github/followers/Abshema123?label=Follow&style=social" alt="GitHub Followers"></a>
  <a href="https://www.linkedin.com/in/abizera-shema-emmanuel-360050322/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=flat&logo=vercel&logoColor=white" /></a>
- <a href="emmallay0627@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+ <a href="mailto:your.emmallay0627@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
