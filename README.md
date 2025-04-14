@@ -7,6 +7,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Fullstack+Dev+in+Progress;Lifelong+Learner+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abshema123" alt="Abshema123" /></a> </p>
+
 
 <p align="center">
  <a href="https://github.com/Abshema123"><img src="https://img.shields.io/github/followers/Abshema123?label=Follow&style=social" alt="GitHub Followers"></a>
