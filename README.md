@@ -78,8 +78,8 @@
 ### ✍️ Blog & Articles
 > *(Optional — remove this if you don’t write blogs yet)*
 
-- [How I’m Transitioning from Frontend to Fullstack Dev](https://yourblog.com/post1)
-- [Understanding API Integration with React](https://yourblog.com/post2)
+- [How I’m Transitioning from Frontend to Fullstack Dev](https://github.com/Abshema123/socially)
+- [Understanding API Integration with React](https://github.com/Abshema123/next-index)
 
 ---
 
