@@ -57,7 +57,7 @@
 | Name | Tech Stack | Demo / Repo |
 |------|------------|-------------|
 | **Portfolio Website** | React, TailwindCSS, Framer Motion | [🌐 Live](https://yourportfolio.com) • [📂 Repo](https://github.com/Abshema123/portfolio) |
-| **Blog API** | Node.js, Express, MongoDB, JWT | [📂 Repo](https://github.com/Abshema123/blog-api) |
+| **Blog API** | Node.js, Express, MongoDB, JWT | [📂 Repo](https://github.com/Abshema123/Braniacs-Nodejs-Dev) |
 | **Todo App (Fullstack)** | MERN Stack | Coming Soon 🔧 |
 
 ---
@@ -76,10 +76,9 @@
 ---
 
 ### ✍️ Blog & Articles
-> *(Optional — remove this if you don’t write blogs yet)*
 
-- [How I’m Transitioning from Frontend to Fullstack Dev](https://github.com/Abshema123/socially)
-- [Understanding API Integration with React](https://github.com/Abshema123/next-index)
+- [How I’m Transitioning from Frontend to Fullstack Dev](https://github.com/Abshema123/FunUp-SocialMedia)
+- [Understanding API Integration with React](https://github.com/Abshema123/SlideImages-API)
 
 ---
 
